@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rspb-merlin-questionnaire/static/css/main.bb35e69b.css",
-    "main.js": "/rspb-merlin-questionnaire/static/js/main.2a207ef9.js",
-    "static/js/787.ff16a3da.chunk.js": "/rspb-merlin-questionnaire/static/js/787.ff16a3da.chunk.js",
-    "static/media/logo.svg": "/rspb-merlin-questionnaire/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/rspb-merlin-questionnaire/index.html",
-    "main.bb35e69b.css.map": "/rspb-merlin-questionnaire/static/css/main.bb35e69b.css.map",
-    "main.2a207ef9.js.map": "/rspb-merlin-questionnaire/static/js/main.2a207ef9.js.map",
-    "787.ff16a3da.chunk.js.map": "/rspb-merlin-questionnaire/static/js/787.ff16a3da.chunk.js.map"
+    "main.css": "/static/css/main.bb35e69b.css",
+    "main.js": "/static/js/main.f0205107.js",
+    "static/js/512.a0715e92.chunk.js": "/static/js/512.a0715e92.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.bb35e69b.css.map": "/static/css/main.bb35e69b.css.map",
+    "main.f0205107.js.map": "/static/js/main.f0205107.js.map",
+    "512.a0715e92.chunk.js.map": "/static/js/512.a0715e92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb35e69b.css",
-    "static/js/main.2a207ef9.js"
+    "static/js/main.f0205107.js"
   ]
 }
